@@ -11,7 +11,7 @@ cryptography==36.0.1
 Cython==0.29.28
 Deprecated==1.2.13
 dicttoxml==1.7.4
-dnspython==2.2.1
+dnspython==2.6.1
 docker==5.0.3
 Flask==2.0.3
 flask-sock==0.5.1
