@@ -16,7 +16,7 @@ docker==5.0.3
 Flask==2.0.3
 flask-sock==0.5.1
 h11==0.13.0
-idna==3.3
+idna==3.7
 IPy==1.1
 itsdangerous==2.1.1
 Jinja2==3.0.3
